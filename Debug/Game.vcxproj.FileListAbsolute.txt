@@ -1,0 +1,2 @@
+C:\Users\jonga\Desktop\code-master\Chapter01\Debug\Game.exe
+C:\Users\jonga\Desktop\code-master\Chapter01\Debug\Game.pdb
