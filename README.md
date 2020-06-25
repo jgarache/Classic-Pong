@@ -1,6 +1,6 @@
 # Classic-Pong
 
-I recreated the classic "Pong" while studying "Game Programming in C++: Creating 3D Games."
+I recreated the classic "Pong" using SDL and studying "Game Programming in C++: Creating 3D Games."
 
 Objective:
 
